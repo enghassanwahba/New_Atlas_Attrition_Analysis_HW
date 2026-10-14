@@ -3,13 +3,13 @@
 📊 Overview
 An enterprise-grade, high-precision data analytics solution designed, engineered, and fully developed utilizing **Power BI Desktop** for (Atlas_Lab_Retain Analytics & Insights). This dynamic application provides proactive, multi-dimensional exploratory intelligence on workforce health, attrition anomalies, and turnover risk factors (`Employee Attrition`), equipping executive stakeholders with data-driven strategic retention insights to safeguard human capital and replace arbitrary business forecasting.
 ---
-<img width="1347" height="590" alt="Overview" src="https://github.com/user-attachments/assets/a7d82662-a375-4446-8c52-347bbc6a3a6f" />
+<img width="2732" height="1638" alt="Attrition2" src="https://github.com/user-attachments/assets/414e28ef-31cc-4620-a68f-a775112ceb0d" />
 ---
  📐 The Main Layout for All Project
 Unified Left Sidebar Master Panel Anatomy
 The overall operational interface relies on a strict **General Layout Form** featuring a persistent **Fixed Left Sidebar Navigation & Filter Control Panel (on the left side)** that remains uniform across all four analytical canvases. This workspace layout acts as an isolated, standalone operational control cockpit structured vertically into four dedicated quadrants from top to bottom:
 ---
-<img width="1231" height="547" alt="The Main Layout" src="https://github.com/user-attachments/assets/21dc4610-8018-4bb1-97df-0dcb89c8f675" />
+<img width="1158" height="680" alt="The Main Layout" src="https://github.com/user-attachments/assets/becd79cf-7e10-4bfb-ad37-b7876f12f146" />
 ----
  1️⃣ Quadrant I 
 Header Node & Corporate Identity* **Embedded Asset:** The official operational emblem configured and registered via internal workspace descriptors under the name (`attrition-icon-trendy-design`).* **UI/UX Visual Purpose:** Acts as the primary application brand anchor and corporate logo. Positioned at the apex of the left panel to instantly establish an authoritative visual baseline, verifying that all cross-filtered variables and adjacent visual metrics are entirely dedicated to evaluating **Workforce Turnover Risk & Employee Attrition** with zero outside distortion.
@@ -68,7 +68,7 @@ The application structures analytical workflows across 4 dedicated, data-dense r
 
 --- 1️⃣ Presentation Canvas I: Executive Overview (Overview)
 ---
-<img width="1347" height="590" alt="Overview" src="https://github.com/user-attachments/assets/3ac0464c-32b6-4f47-9d61-f0f56407cd0d" />
+<img width="2732" height="1638" alt="Over view 2" src="https://github.com/user-attachments/assets/ffc05357-e7e9-4a58-b96e-8f687f9c1ecc" />
 ---
 * **Analytical Mandate:** Functions as the primary landing canvas and executive summary page, providing c-suite stakeholders with macro headcount metrics, current active operational capacity, and systemic attrition rates.
 * **Reporting Components & Visual Framework:**
@@ -78,7 +78,7 @@ The application structures analytical workflows across 4 dedicated, data-dense r
 
 --- 2️⃣ Presentation Canvas II: Demographics (Demographics)
 ---
-<img width="1346" height="595" alt="Demographics" src="https://github.com/user-attachments/assets/74e35c60-ddab-49da-993a-99551c92c5ab" />
+<img width="2732" height="1638" alt="Demographics 2" src="https://github.com/user-attachments/assets/9e8abe56-371d-4bc3-a941-406a1662acb9" />
 ---
 * **Analytical Mandate:** Explores structural workforce diversity and personal background factors, correlating attributes like age buckets, ethnicity groupings, and marital status parameters against the general payroll register.
 * **Reporting Components & Visual Framework:**
@@ -89,7 +89,7 @@ The application structures analytical workflows across 4 dedicated, data-dense r
 
 ---3️⃣ Presentation Canvas III: Performance Tracker (Performance Tracker)
 ---
-<img width="1353" height="597" alt="Performance Tracker" src="https://github.com/user-attachments/assets/6a2272ac-7f0f-4f17-b500-6d7ef8545d47" />
+<img width="2732" height="1638" alt="Performance Tracker 2" src="https://github.com/user-attachments/assets/2967c871-d507-4c55-8b19-c58124fd5e34" />
 ---
 * **Analytical Mandate:** Acts as an individual employee profile auditing workspace. It allows HR business partners to call up an individual staff record and inspect satisfaction trends, behavioral changes, and assessment metrics over time.
 * **Reporting Components & Visual Framework:**
@@ -101,7 +101,7 @@ The application structures analytical workflows across 4 dedicated, data-dense r
 
 --- 4️⃣ Presentation Canvas IV: Attrition Analytics (Attrition)
 ---
-<img width="1349" height="598" alt="Attrition" src="https://github.com/user-attachments/assets/0f5c6a26-ef1d-415c-a430-d89cc47e2df4" />
+<img width="2732" height="1638" alt="Attrition2" src="https://github.com/user-attachments/assets/57a4a0f5-76ed-447f-8ba1-9dcdbb4aefad" />
 ---
 * **Analytical Mandate:** A specialized investigative interface dedicated to studying the exited employee profile dataset (`237 InActive Records`). It isolates correlation models across distance barriers, structural roles, and compensation gaps to eliminate turnover.
 * **Reporting Components & Visual Framework:**
